@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html es>
+<head>
+	
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<title>Cosmetic Import</title>
+</head>
+<body>
+	<main id="contenedor">
+		<header>
+			<section class="redes"><h1>Redes sociales</h1></section>
+			<section id="banner">
+				<!-- <h1>Banner - Logo - COSMETIC IMPORT</h1> -->
+				<img src="https://via.placeholder.com/800x200">
+			</section>
+		</header>
+
+		<nav id="navbar"><h1>Menu</h1></nav>
+
+		
+		<section id="cont_a"> 	
+				<!-- <article><h2>article1 - IMAGENES - PRESENTACION</h2></article> -->
+			<article>
+				<img src="https://via.placeholder.com/1800x1200">
+			</article>
+		</section>
+		<br>
+		<section id="cont_b"> 	
+				<!-- <article><h2>article1 - IMAGENES - PRODUCTOS</h2></article> -->
+			<article>
+				<img src="https://via.placeholder.com/2000x1600">
+			</article>
+		</section>
+
+		<section id="cont_c">
+			<article ><h2>CRECE CON NOSOTROS</h2></article>
+		</section>
+
+		<section class="redes"><h1>Redes sociales</h1></section>
+
+		<footer>
+		<!-- 	<h3>Pie de pagina</h3> -->
+			<article>article1</article>
+			<article>article2</article>
+			<article>article3</article>
+		</footer>
+	</main>
+</body>
+</html>
+
