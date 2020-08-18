@@ -4,7 +4,7 @@
 	
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
-	<title>Cosmetic Import</title>
+	<title>Cosmetic Import ejemplo GitHub</title>
 </head>
 <body>
 	<main id="contenedor">
